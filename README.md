@@ -1,0 +1,1 @@
+This page will be dedicated to my studying at 42Bangkok containing my projects and useful information for completing them.
