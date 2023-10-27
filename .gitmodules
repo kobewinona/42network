@@ -10,3 +10,6 @@
 [submodule "Born2beRoot"]
 	path = Born2beRoot
 	url = https://github.com/kobewinona/Born2beRoot.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/kobewinona/push_swap.git
