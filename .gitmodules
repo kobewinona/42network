@@ -16,3 +16,6 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/kobewinona/minitalk.git
+[submodule "so_long"]
+	path = so_long
+	url = ./so_long
