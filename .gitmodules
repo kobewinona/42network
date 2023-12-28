@@ -18,4 +18,4 @@
 	url = https://github.com/kobewinona/minitalk.git
 [submodule "so_long"]
 	path = so_long
-	url = ./so_long
+	url = https://github.com/kobewinona/so_long.git
