@@ -22,3 +22,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = https://github.com/kobewinona/minishell.git
+[submodule "pholosophers"]
+	path = pholosophers
+	url = https://github.com/kobewinona/philosophers.git
