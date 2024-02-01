@@ -25,3 +25,6 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = https://github.com/kobewinona/philosophers.git
+[submodule "philo"]
+	path = philo
+	url = https://github.com/kobewinona/philo.git
