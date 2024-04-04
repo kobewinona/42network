@@ -28,3 +28,6 @@
 [submodule "philo"]
 	path = philo
 	url = https://github.com/kobewinona/philo.git
+[submodule "CPP"]
+	path = CPP
+	url = https://github.com/kobewinona/CPP.git
