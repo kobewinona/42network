@@ -28,6 +28,3 @@
 [submodule "philo"]
 	path = philo
 	url = https://github.com/kobewinona/philo.git
-[submodule "net_practice"]
-	path = net_practice
-	url = https://github.com/kobewinona/net_practice.git
