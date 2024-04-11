@@ -34,3 +34,6 @@
 [submodule "cub3d"]
 	path = cub3d
 	url = https://github.com/kobewinona/cub3d.git
+[submodule "exam"]
+	path = exam
+	url = git@github.com:kobewinona/exam.git
