@@ -42,4 +42,4 @@
 	url = https://github.com/kobewinona/Inception.git
 [submodule "webserver"]
 	path = webserver
-	url = git@github.com:PoissonC/42-webserv.git
+	url = https://github.com/PoissonC/42-webserver.git
