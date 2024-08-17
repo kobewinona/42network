@@ -40,6 +40,3 @@
 [submodule "inception"]
 	path = inception
 	url = https://github.com/kobewinona/Inception.git
-[submodule "webserver"]
-	path = webserver
-	url = https://github.com/PoissonC/42-webserver.git
